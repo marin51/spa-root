@@ -22,6 +22,6 @@
 
 ## Add new app to layout:
 
-### Add you app to the desired route in `microfronted-layout.html`
+#### Add you app to the desired route in `microfronted-layout.html`
 
-### Add you app to the importmap in `index.ejs` (line 50)
+#### Add you app to the importmap in `index.ejs` (line 50)
