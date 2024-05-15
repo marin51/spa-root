@@ -1,4 +1,4 @@
-# Simple Singla Spa Orchestrator App Used For Demo Purposes
+# Singla Spa Orchestrator App
 
 ### The main purpose of this app is to be used for local micro-fronted apps development.
 
